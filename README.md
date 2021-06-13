@@ -12,7 +12,7 @@ The site is fully responsive and has a smooth scroll effect that highlights the 
 
 ![image](https://user-images.githubusercontent.com/72507930/121808885-2b540300-cc78-11eb-8816-3a15d1b28fc4.png)
 
-The code has been adjusted such that it works well on smaller screens (like mobile devices) as well:
+The code has been adjusted such that it works well on smaller screens (<=480px) as well:
 
 ![image](https://user-images.githubusercontent.com/72507930/121808963-900f5d80-cc78-11eb-9c65-e7268740d61a.png)
 
